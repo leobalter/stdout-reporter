@@ -1,0 +1,9 @@
+.
+1 assertions in 345ms, passed: 1, failed: 0FAILED!
+    Module: logFoo
+    Test: logBar
+    Assertion: logMessage
+    Actual: 1
+    Expected: 2
+  logSource
+1 assertions in 456ms, passed: 0, failed: 1
