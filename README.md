@@ -2,6 +2,8 @@
 
 A tool to report test results on node's stdout.
 
+[![Build Status](https://travis-ci.org/leobalter/stdout-reporter.svg)](https://travis-ci.org/leobalter/stdout-reporter)
+
 ## Install
 
 ```
